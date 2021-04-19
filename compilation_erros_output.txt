@@ -1,0 +1,5 @@
+1.23e *** ligne 3 *** exposant attendu
+"DFQSFQSFQ *** ligne 5 *** fin de chaine attendue
+1.2e *** ligne 6 *** exposant attendu
++ *** ligne 7 *** nombre attendue
+-a *** ligne 8 *** nombre attendue
